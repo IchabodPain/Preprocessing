@@ -176,6 +176,7 @@ header .logo {
   display: flex;
   margin-top: 72px;
   justify-content: flex-end;
+  border: dotted gold 3px;
 }
 .cta .cta-text {
   font-size: 72px;
